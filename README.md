@@ -15,4 +15,4 @@ comportamentali associate alle fake news, sviluppando un sistema di rilevamento.
 • Implementare un modello in grado di classificare automaticamente e accuratamente gli articoli come
 fake o genuini.
 
-• Ottimizzare il modello per garan%re elevate prestazioni su dati non etichettati.
+• Ottimizzare il modello per garantire elevate prestazioni su dati non etichettati.
